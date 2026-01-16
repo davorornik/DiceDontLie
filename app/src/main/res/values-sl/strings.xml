@@ -1,0 +1,72 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Kocke ne lažejo</string>
+
+    <!-- General -->
+    <string name="no_games_to_display">ni iger za prikaz</string>
+    <string name="new_game">Nova igra</string>
+    <string name="add">Dodaj</string>
+    <string name="players">Igralci:</string>
+    <string name="start_game">Začni igro</string>
+    <string name="end_game">Končaj igro</string>
+
+    <!-- Statistics Screen -->
+    <string name="statistics_screen">Statistika</string>
+
+    <!-- New Game Screen -->
+    <string name="create_new_game">Ustvari novo igro</string>
+    <string name="game_name">Ime igre</string>
+    <string name="player_name_max_chars">Ime igralca (max %1$d znakov)</string>
+    <string name="player_name_count">%1$d / %2$d</string>
+    <string name="player_already_exists">Igralec s tem imenom že obstaja</string>
+    <string name="add_2_to_6_players">Dodaj 2 do 6 igralcev</string>
+    <string name="event_die_option">Omogoči kocko dogodkov</string>
+
+    <!-- Game Details Screen -->
+    <string name="started">Začetek:</string>
+    <string name="ended">Konec:</string>
+    <string name="ended_in_progress">Konec: v teku</string>
+    <string name="total_rolls">Skupaj metov: %1$d</string>
+    <string name="go_to_die_roll_screen">Pojdi na zaslon za met kock</string>
+    <string name="view_statistics">Poglej statistiko</string>
+    <string name="roll_log">Dnevnik metov</string>
+    <string name="no_rolls_yet">Še ni metov</string>
+    <string name="delete_game">Izbriši igro</string>
+    <string name="delete_game_confirmation">Ali ste prepričani, da želite izbrisati to igro? Tega dejanja ni mogoče razveljaviti.</string>
+
+    <!-- Die Roll Screen -->
+    <string name="red_die">Rdeča kocka %1$d</string>
+    <string name="yellow_die">Rumena kocka %1$d</string>
+    <string name="event_die">Kocka dogodka %1$s</string>
+    <string name="move_number">Met %1$d:</string>
+    <string name="dice_total"> = %1$d</string>
+
+    <!-- Accessibility descriptions -->
+    <string name="move_up">Premakni gor</string>
+    <string name="move_down">Premakni dol</string>
+    <string name="remove_player">Odstrani igralca</string>
+
+    <!-- Date format -->
+    <string name="date_time_format">dd.MM.yyyy HH:mm</string>
+
+    <!-- Players count -->
+    <plurals name="players_count">
+        <item quantity="one">%1$d igralec</item>
+        <item quantity="two">%1$d igralca</item>
+        <item quantity="few">%1$d igralci</item>
+    </plurals>
+
+    <!-- Roll log menu -->
+    <string name="more_options">Več možnosti</string>
+    <string name="edit">Uredi</string>
+    <string name="delete">Izbriši</string>
+    <string name="delete_roll">Izbriši met</string>
+    <string name="delete_roll_confirmation">Ali ste prepričani, da želite izbrisati ta met?</string>
+    <string name="edit_roll">Uredi met</string>
+    <string name="save">Shrani</string>
+    <string name="cancel">Prekliči</string>
+    <string name="red_die_label">Rdeča kocka</string>
+    <string name="yellow_die_label">Rumena kocka</string>
+    <string name="event_die_label">Kocka dogodka</string>
+    <string name="no_event">Brez</string>
+</resources>

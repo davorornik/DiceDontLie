@@ -1,0 +1,71 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Dice don\'t lie</string>
+
+    <!-- General -->
+    <string name="no_games_to_display">no games to display</string>
+    <string name="new_game">New Game</string>
+    <string name="add">Add</string>
+    <string name="players">Players:</string>
+    <string name="start_game">Start Game</string>
+    <string name="end_game">End Game</string>
+
+    <!-- Statistics Screen -->
+    <string name="statistics_screen">Statistics Screen</string>
+
+    <!-- New Game Screen -->
+    <string name="create_new_game">Create New Game</string>
+    <string name="game_name">Game Name</string>
+    <string name="player_name_max_chars">Player Name (max %1$d chars)</string>
+    <string name="player_name_count">%1$d / %2$d</string>
+    <string name="player_already_exists">A player with this name already exists</string>
+    <string name="add_2_to_6_players">Add 2 to 6 players</string>
+    <string name="event_die_option">Enable Event Die</string>
+
+    <!-- Game Details Screen -->
+    <string name="started">Started:</string>
+    <string name="ended">Ended:</string>
+    <string name="ended_in_progress">Ended: in progress</string>
+    <string name="total_rolls">Total Rolls: %1$d</string>
+    <string name="go_to_die_roll_screen">Go to Die Roll Screen</string>
+    <string name="view_statistics">View Statistics</string>
+    <string name="roll_log">Roll Log</string>
+    <string name="no_rolls_yet">No rolls yet</string>
+    <string name="delete_game">Delete Game</string>
+    <string name="delete_game_confirmation">Are you sure you want to delete this game? This action cannot be undone.</string>
+
+    <!-- Die Roll Screen -->
+    <string name="red_die">Red die %1$d</string>
+    <string name="yellow_die">Yellow die %1$d</string>
+    <string name="event_die">Event die %1$s</string>
+    <string name="move_number">Move %1$d:</string>
+    <string name="dice_total"> = %1$d</string>
+
+    <!-- Accessibility descriptions -->
+    <string name="move_up">Move Up</string>
+    <string name="move_down">Move Down</string>
+    <string name="remove_player">Remove Player</string>
+
+    <!-- Date format -->
+    <string name="date_time_format">dd.MM.yyyy HH:mm</string>
+
+    <!-- Players count -->
+    <plurals name="players_count">
+        <item quantity="one">%1$d player</item>
+        <item quantity="other">%1$d players</item>
+    </plurals>
+
+    <!-- Roll log menu -->
+    <string name="more_options">More options</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_roll">Delete Roll</string>
+    <string name="delete_roll_confirmation">Are you sure you want to delete this roll?</string>
+    <string name="edit_roll">Edit Roll</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="red_die_label">Red Die</string>
+    <string name="yellow_die_label">Yellow Die</string>
+    <string name="event_die_label">Event Die</string>
+    <string name="no_event">None</string>
+</resources>

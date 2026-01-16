@@ -1,9 +1,7 @@
 # 🎲 Dice Don’t Lie
 
 A modern Android app for tracking dice rolls in a popular resource-trading board game.  
-Create games, log dice results, and analyze roll statistics over time — because the dice *never* lie.
-
-
+Create games, log dice results, and analyze roll statistics over time, because the dice *never* lie.
 ---
 
 ## ✨ Features
@@ -96,7 +94,7 @@ Create games, log dice results, and analyze roll statistics over time — becaus
 <table>
   <tr>
     <td>
-      <img src="screenshots/create_game_screen.png" width="250" alt="Create Game Screen"/>
+      <img src="./screenshots/create_game_screen.png" width="250" alt="Create Game Screen"/>
     </td>
   </tr>
 </table>
@@ -105,10 +103,10 @@ Create games, log dice results, and analyze roll statistics over time — becaus
 <table>
   <tr>
     <td>
-      <img src="screenshots/die_roll_screen.png" width="250" alt="Die Roll Screen"/>
+      <img src="./screenshots/die_roll_screen.png" width="250" alt="Die Roll Screen"/>
     </td>
     <td>
-      <img src="screenshots/die_roll_screen_event_die.png" width="250" alt="Die Roll Screen with Event Die"/>
+      <img src="./screenshots/die_roll_screen_event_die.png" width="250" alt="Die Roll Screen with Event Die"/>
     </td>
   </tr>
 </table>
@@ -117,10 +115,19 @@ Create games, log dice results, and analyze roll statistics over time — becaus
 <table>
   <tr>
     <td>
-      <img src="screenshots/statistics.png" width="250" alt="Statistics Screen"/>
+      <img src="./screenshots/statistics.png" width="250" alt="Statistics Screen"/>
     </td>
     <td>
-      <img src="screenshots/statistics_event_die.png" width="250" alt="Statistics Screen with Event Die"/>
+      <img src="./screenshots/statistics_event_die.png" width="250" alt="Statistics Screen with Event Die"/>
+    </td>
+  </tr>
+</table>
+
+<h3>Roll log</h3>
+<table>
+  <tr>
+    <td>
+      <img src="./screenshots/roll_log.png" width="250" alt="Statistics Screen"/>
     </td>
   </tr>
 </table>
